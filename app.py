@@ -62,9 +62,9 @@ def predict():
         
         
         if prediction == 1: 
-            return render_template('index_main.html', prediction_text='Oops! Employee will be Absent!')
+            return render_template('index_main.html', prediction_text='Oops! Employee is likely to be absent for more than 3 Hours!')
         else:
-            return render_template('index_main.html', prediction_text='Great! Your employee will be there!')
+            return render_template('index_main.html', prediction_text='Great! Your employee will be there for work!')
     
     
     
