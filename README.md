@@ -41,7 +41,6 @@ based on employee's persona.
   
 <hr>
 
-<p> <b>If you want to view the deployed model, click on the following link:
-Deployed at: </b> https://absenteeism.herokuapp.com/   </p>
+<p> <b>If you want to view the deployed model, click on the following link:</b> https://absenteeism.herokuapp.com/   </p>
 <p> <b> Please do ⭐ the repository, if it helped you in anyway.</b> </p>
 <p> <b> Thank You! 😊 </b> </p>
